@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="triangleFunc" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="triangleFunc" />
+    <module name="SajalNewProj" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
